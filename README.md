@@ -30,8 +30,9 @@ Entre as 500 horas de especialização na Alura e o rigor técnico do Machine Le
 
 ###
 
+
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alicedevdata&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Atividade&line=#8A2BE2&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alicedevdata&radius=16&theme=high-contrast&area=false&order=5&custom_title=Atividade&line=#8B5CF6&area_color=#6366F1&hide_border=false&hide_title=false&title_color=#A855F7&bg_color=#0D1117&color=#FFFFFF&point=#D8B4FE" height="300" alt="activity-graph graph"  />
 </div>
 
 ###

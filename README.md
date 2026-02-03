@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">Nas quadras de vôlei, aprendi que a vitória nasce da leitura rápida e da disciplina do movimento. Hoje, aplico essa mesma garra para decifrar o caos dos dados. <br>Troquei o manguito  pelo código, mas mantive o olhar: busco a harmonia entre a complexidade do SQL/Python e a clareza estética de um dashboard que conta uma história. Atualmente, mergulho em mais de 500 horas de especialização técnica, lapidando a arte de transformar números em insights visuais.</p>
+<p align="left">Por muito tempo, meu mundo foi definido pelas linhas de uma quadra. No vôlei, aprendi que a vitória nasce da leitura rápida e da disciplina absoluta. Eu buscava o profissionalismo no esporte, mas descobri que a mesma adrenalina de antecipar uma jogada reside em decifrar o caos dos dados.
+Hoje, troquei o manguito pelo código. Percebi que uma base de dados é como um jogo difícil: parece ruído para muitos, mas revela padrões para quem treinou o olhar. No SQL e no Python, estruturo a estratégia; no Power BI, dou vida à história.
+Entre as 500 horas de especialização na Alura e o rigor técnico do Machine Learning, busco a harmonia entre a precisão e a estética. Sigo com alma de atleta e mente de analista, transformando complexidade em clareza visual.</p>
 
 ###
 

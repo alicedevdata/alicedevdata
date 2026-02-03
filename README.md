@@ -1,10 +1,10 @@
 <br clear="both">
 
-<img align="right" height="295" src="https://i.pinimg.com/736x/af/cf/94/afcf94a2e9604f717b7c8e0f8330b94f.jpg"  />
+<img align="right" height="220" src="https://i.pinimg.com/736x/af/cf/94/afcf94a2e9604f717b7c8e0f8330b94f.jpg"  />
 
 ###
 
-### **MANIFESTO**
+### MANIFESTO
 
 ###
 

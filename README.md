@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Manifesto</h1>
+### **MANIFESTO**
 
 ###
 

@@ -5,7 +5,7 @@
 
 <h2 align="center">About me</h2>
 
-<img align="right" height="225" src="https://i.pinimg.com/736x/be/4b/99/be4b996329c5953a185246f368d2e493.jpg"  />
+<img align="right" height="200" src="https://i.pinimg.com/736x/be/4b/99/be4b996329c5953a185246f368d2e493.jpg"  />
 
 <p align="left">Hello There! I'm Alice Ribeiro, a Data Analysis student at Alura. I enjoy transforming raw data into insights and solving complex problems with logic. Now I'm working on some personal projects to put in practice my knowledge about Python, SQL, Power BI and Excel, while preparing my path towards Data Science and Software Engineering.<br><br>      🏛️ Studying Data Analysis at Alura<br>            🎓 Completed "Imersão Dados com Python"<br>                  💻 Future Software Engineering Student<br>                        🔳 Data Enthusiast</p>
 
@@ -32,7 +32,7 @@
 <p align="center">Contribution Streak 👾</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alicedevdata&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=alicedevdata&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 <h1 align="center"></h1>
